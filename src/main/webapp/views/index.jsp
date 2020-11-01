@@ -12,7 +12,7 @@
 <body>
 <body class="align">
 
-      <h2>YOUTUBE VIDEO DOWNLOADER</h2>
+      <h2>YOUTUBE VIDEO DOWNLOADER (YAT PROJECT)</h2>
 	<div class="grid">
 
 		<form:form action="/getvideo" method="POST" class="form login" modelAttribute="urlBean">
